@@ -1,0 +1,7 @@
+- [[Data types]]
+- [[Variables]]
+- [[Constants]]
+- [[conditions]]
+- [[Loops]]
+- [[Array]]
+- [[String]]
