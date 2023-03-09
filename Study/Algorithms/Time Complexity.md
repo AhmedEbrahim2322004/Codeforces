@@ -6,7 +6,7 @@ Let g and f be functions from the set of natural numbers to itself. The function
 
 ## **Complexity classes:**
 
-![[Time Complexity.jpeg]]
+![[./image/Time Complexity.jpeg]]
  
 - **O(1)** The running time of a constant-time algorithm does not depend on the input size. A typical constant-time algorithm is a direct formula that calculates the answer.
 
